@@ -82,5 +82,3 @@ pip install -r requirements.txt
 
 - **Last updated:** 2026-05-02
 - **Current state:** Expert source roster collected; raw posts and transcripts not yet archived.
-- **Repository link:** [Placeholder: Add GitHub repository URL]
-
